@@ -1,4 +1,6 @@
 # memeGenerator
+React@18.2.0
+
 This generates random memo emoji to which you can add text.
 
 Here is the link:
