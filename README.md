@@ -1,5 +1,5 @@
 # memeGenerator
-React@18.2.0
+React@18.2.0 + vite@4.1.0 + netlify
 
 This generates random memo emoji to which you can add text.
 
